@@ -1,0 +1,159 @@
+
+*{
+	box-sizing:  border-box;
+margin:0;
+}
+
+
+body{
+	background-image: url(cloulds2.jpg);
+	margin: 0;
+	background-size: cover;
+	margin-bottom: 245px;
+
+}
+
+h1{
+
+	text-align: center;
+	color: lightpink;
+	font-size: 70px;
+	margin: 0;
+	align-content: center;
+}
+
+#buttonspace{float: left;
+	text-align: center;
+	top: 10px;
+	border-color: #F962A2;
+	font-size: 15px;
+	color:#453338  ;
+	font-weight: bolder;
+	border-style: solid;
+	border-width: 8px;
+	border-radius: 5px;
+	word-wrap:  break-word;
+	background-color: lightpink ;
+	opacity:  95%;
+	position: relative;
+	bottom: 50%;
+	right:  100%;
+	left:  35%;
+	height: 225%;
+    width: 30%;
+    margin-top: 20%;
+	padding: 2%;
+
+   }
+
+.picturesnumbers{
+	border-radius: 5px;
+	background-color:lightpink;
+	width: 30%;
+	height: 30%;
+	left: 35% ;
+	position: fixed;
+	overflow: auto;
+	margin: auto;
+	margin-top: 39px;
+	text-align: center;
+
+}
+
+
+
+
+/*}*/
+/*
+#buttonspace{
+ text-align: center;
+ top: 20px;
+ border-color: white;
+ font-size: 15px;
+color: #FF69B4;
+font-weight: bolder;
+border-style: solid;
+border-width: 10px;
+border-radius: 70px;
+word-wrap: break-word;
+position: relative;
+top: 4px;
+right: -50;
+left: 180px;
+height: 150px;
+block: auto;
+margin-left: auto;
+ margin-right: auto;
+ width: 20em;
+ margin-top:  50px;
+}
+*/
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
+}
+
+
+#first{
+	margin: 0;
+	text-align: center;
+	border-color: #F962A2;
+	border-radius:5px ;
+	background-color:  #F962A2;
+	width: auto;
+	height: 40px;
+	padding: 10px;
+	left: 500px;
+}
+
+
+#b1{
+	background-color: #F962A2;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        margin:10px
+        width:90px;
+        height: 40px;
+        border-color: #F962A2;
+        font-size: 20px;
+
+}
+
+#b2{
+	background-color: #F962A2;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        margin:10px
+        width:90px;
+        height: 40px;
+        border-color: #F962A2;
+        font-size: 20px;
+}
+
+h2{
+	color: #CAF9FA;
+	font-size:20px ;
+	font-weight: bolder;
+}
+ 
+ #wholepage{
+ 	width: 1700px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	justify-content: center;
+ }
+
+/*#b1{background-color: :#FBB6D2 ;
+	border-radius:  15 px;
+	border-width: 5 px;
+	border-style: solid;
+	border-color: black;
+	color: white ;
+	height: 20px;
+	width: 30px;
+
+
+*/
